@@ -1,6 +1,6 @@
 # How To Use React Context With Hooks for Global State Management
 
-You can find the full explanation on [Medium](https://github.com/facebook/create-react-app).
+You can find the full explanation on [Medium](https://jakub-kozak.medium.com/how-to-use-react-context-with-hooks-for-global-state-management-8d7d3526c5af).
 
 ## Available Scripts
 
